@@ -3,6 +3,7 @@
 * The goal of this app is to improve social anxiety therapy outcomes.<br />
 
 # Welcome screens
-![alt text]
-(https://github.com/soumilchugh/ExpoSocial-Android/blob/master/WelcomeSlide1.png)
+<img src="https://github.com/soumilchugh/ExpoSocial-Android/blob/master/WelcomeSlide1.png" align="center" height="300" width="200"/>
+<img src="https://github.com/soumilchugh/ExpoSocial-Android/blob/master/WelcomeSlide2.png" align="center" height="300" width="200"/>
+
 
